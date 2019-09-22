@@ -1,0 +1,9 @@
+class MyPet
+    def _init_(self, pet_name):
+        self.name = pet_name
+
+orange_cat = MyPet("Miles")
+small_dog = MyPet("Fido")
+
+print(orange_cat.name
+)
